@@ -1,2 +1,2 @@
-# c-
+# c++
 Project sourcecode
